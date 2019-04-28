@@ -1,0 +1,13 @@
+C:\Users\zaura\Source\Repos\kitabxana\kitabxana\bin\Debug\kitabxana.exe.config
+C:\Users\zaura\Source\Repos\kitabxana\kitabxana\bin\Debug\kitabxana.exe
+C:\Users\zaura\Source\Repos\kitabxana\kitabxana\bin\Debug\kitabxana.pdb
+C:\Users\zaura\Source\Repos\kitabxana\kitabxana\obj\Debug\kitabxana.csprojAssemblyReference.cache
+C:\Users\zaura\Source\Repos\kitabxana\kitabxana\obj\Debug\kitabxana.Form1.resources
+C:\Users\zaura\Source\Repos\kitabxana\kitabxana\obj\Debug\kitabxana.Properties.Resources.resources
+C:\Users\zaura\Source\Repos\kitabxana\kitabxana\obj\Debug\kitabxana.csproj.GenerateResource.cache
+C:\Users\zaura\Source\Repos\kitabxana\kitabxana\obj\Debug\kitabxana.csproj.CoreCompileInputs.cache
+C:\Users\zaura\Source\Repos\kitabxana\kitabxana\obj\Debug\kitabxana.exe
+C:\Users\zaura\Source\Repos\kitabxana\kitabxana\obj\Debug\kitabxana.pdb
+C:\Users\zaura\Source\Repos\kitabxana\kitabxana\obj\Debug\kitabxana.oxucu_form.resources
+C:\Users\zaura\Source\Repos\kitabxana\kitabxana\obj\Debug\kitabxana.muellif_form.resources
+C:\Users\zaura\Source\Repos\kitabxana\kitabxana\obj\Debug\kitabxana.kitab_form.resources
